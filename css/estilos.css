@@ -127,3 +127,7 @@ main figure{
 main figure img:hover{
     box-shadow: 0px 0px 8px #00E0ff;
 }
+footer{
+    background-color: #222;
+    padding: 16px;
+}
